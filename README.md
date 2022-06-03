@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello 👋
+![image](https://user-images.githubusercontent.com/105886632/171845850-34d937fd-a3ab-4d98-8bbd-f8d70d99070b.png)
+
+### My Technology stack
+- Python
+- Django
+- Django REST framework
+- Aiogram
+- JavaScript
+- HTML
+- CSS/SCSS
 
 <!--
 **AlexDoved/AlexDoved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
