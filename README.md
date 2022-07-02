@@ -1,14 +1,11 @@
-### Hello 👋
-![image](https://user-images.githubusercontent.com/105886632/171845850-34d937fd-a3ab-4d98-8bbd-f8d70d99070b.png)
+![image](https://user-images.githubusercontent.com/105886632/177017712-64cbaaa9-f050-4642-9291-44c6be6f6876.png)
 
-### My Technology stack
-- Python
-- Django
-- Django REST framework
-- Aiogram
-- JavaScript
-- HTML
-- CSS/SCSS
+I am 28 years old, I started studying programming in February 2022. Now it's my passion. I study things related to the Python and JavaScript programming languages on a regular basis. I like to learn and put into practice new tools that help me in my professional development. Thanks to my life experience, I have acquired a lot of useful soft skills that help me achieve my goals and become a good developer.
+
+![Codewars](https://github.r2v.ch/codewars?user=Snowball558)
+
+### My Technology stack 
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=green" /> <img src="https://img.shields.io/badge/Django Rest Framework-000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html5&logoColor=red" /> <img src="https://img.shields.io/badge/Scss-000?style=for-the-badge&logo=sass&logoColor=pink" /> <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFD700" /> <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=red" /> <img src="https://img.shields.io/badge/Gulp-000?style=for-the-badge&logo=gulp&logoColor=pink" />
 
 <!--
 **AlexDoved/AlexDoved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
