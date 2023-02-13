@@ -3,8 +3,21 @@
       <img src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" width="300" height="200" alt="DRF" align="center"/>
  <br />
  <br />
-      
-  [![codewars](https://www.codewars.com/users/AlexDoved/badges/large)](https://www.codewars.com/users/AlexDoved)   
+     
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/doved-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://vk.com/doved_dev">
+    <img src="https://img.shields.io/badge/vk-orange?style=for-the-badge&logo=vk&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://t.me/devDoved">
+    <img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=Telegram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<br />
+
+[![codewars](https://www.codewars.com/users/AlexDoved/badges/large)](https://www.codewars.com/users/AlexDoved)
       
 Hello everyone, my name is Sasha. I am 28 years old. I have been interested in programming for a long time, but I really only discovered this area a few years ago. Familiar with several programming languages. But most of all I enjoy building user interfaces with React. In the near future I plan to improve my skills in Frontend development. I also have an understanding of the server side, sometimes I develop in Python to broaden my horizons.
 
