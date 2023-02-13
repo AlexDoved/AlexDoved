@@ -1,4 +1,17 @@
-> Server development and other technologies
+
+<div align="center" dir="auto">
+      <img src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" width="300" height="200" alt="DRF" align="center"/>
+ <br />
+ <br />
+      
+  [![codewars](https://www.codewars.com/users/AlexDoved/badges/large)](https://www.codewars.com/users/AlexDoved)   
+      
+Hello everyone, my name is Sasha. I am 28 years old. I have been interested in programming for a long time, but I really only discovered this area a few years ago. Familiar with several programming languages. But most of all I enjoy building user interfaces with React. In the near future I plan to improve my skills in Frontend development. I also have an understanding of the server side, sometimes I develop in Python to broaden my horizons.
+
+   <br />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+technology+stack+🥪)](https://git.io/typing-svg)
+      
 <table width="100%">
       <tr>
         <td align="center" width="96">
@@ -21,7 +34,7 @@
               alt="DRF"
             />
           </a>
-          <br />DjangoRF
+          <br />DRF
         </td>
         <td align="center" width="96">
           <a href="#stack">
@@ -161,8 +174,6 @@
         </td>
       </tr>
 </table>
-
-> Frontend
 <table width="100%">
       <tr>
         <td align="center" width="96">
@@ -323,4 +334,9 @@
           <br />Saga
         </td>
       </tr>
-    </table>
+   </table>
+</div>
+
+
+
+
