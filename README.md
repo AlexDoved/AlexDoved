@@ -19,7 +19,7 @@
 
 [![codewars](https://www.codewars.com/users/AlexDoved/badges/large)](https://www.codewars.com/users/AlexDoved)
       
-Hello everyone, my name is Sasha. I am 28 years old. I have been interested in programming for a long time, but I really only discovered this area a few years ago. Familiar with several programming languages. But most of all I enjoy building user interfaces with React. In the near future I plan to improve my skills in Frontend development. I also have an understanding of the server side, sometimes I develop in Python to broaden my horizons.
+Hello everyone, my name is Sasha. I have been interested in programming for a long time, but I really only discovered this area a few years ago. Familiar with several programming languages. But most of all I enjoy building user interfaces with React. In the near future I plan to improve my skills in Frontend development. I also have an understanding of the server side, sometimes I develop in Python to broaden my horizons.
 
    <br />
 
